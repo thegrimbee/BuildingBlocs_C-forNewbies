@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-  int scores[5] = {10, 20, 20, 10, 5}; 
+  int numbers[5] = {10, 20, 20, 10, 5}; 
 
   string names[5]; //array of size 5 with uninitialised values
 
